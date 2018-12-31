@@ -1,0 +1,14 @@
+.vscode
+.idea
+
+node_modules/
+dist/
+
+cypress/screenshots
+cypress/videos
+cypress/screenshots/*
+coverage
+
+envs/.testnet.env
+envs/.mainnet.env
+envs/.development.env
